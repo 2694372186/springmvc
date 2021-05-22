@@ -18,6 +18,7 @@ public class HelloController implements Controller {
         //视图跳转
         mv.addObject("msg",result);
         mv.setViewName("hello");
+
         return mv;
     }
 }

@@ -9,6 +9,8 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/Spring-06-Ajax/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC-06-Ajax/pom.xml" />
         <option value="$PROJECT_DIR$/spring-02-hellomvc/pom.xml" />
       </set>
     </option>
